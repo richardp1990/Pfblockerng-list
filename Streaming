@@ -1,0 +1,12 @@
+#=====================================
+# Title: Media Streaming block list
+# By RP
+
+0.0.0.0 ck.getcookiestxt.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 youtube.com
+0.0.0.0 twitch.tv
